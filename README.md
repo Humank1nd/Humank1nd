@@ -35,7 +35,7 @@ I build at the convergence of **large-scale physical simulation, multi-agent AI 
 * **Stack:** TypeScript • Directed Acyclic Graphs (DAG) • Event Sourcing • Invariant Verification
 * **Architecture:** 100% authentic Marvel Comics canon modeled as an immutable, non-cyclical Sacred Timeline DAG. Governed by the Living Tribunal invariant engine and Uatu Nexus observation surfaces to eliminate narrative paradox loops.
 
-### 3. 👑 Dream Caesar — Master Life OS & PCOS v1.0 `[Proprietary Core]`
+### 3. 👑 Dream Caesar — Master Life OS · Dream OS `[Proprietary Core]`
 * **Domain:** Cognitive Operating System & Autonomous Execution
 * **Stack:** Python • TypeScript • FastAPI • Distributed Task Queues • Vector Stores
 * **Architecture:** The master executive intelligence engine. Implements the unbroken 6-Seat Council orchestration cycle and the canonical 108 recursive question baton-chain sequence across 10 fractal intelligence tiers (Quecto to Macro).
@@ -67,7 +67,7 @@ I build at the convergence of **large-scale physical simulation, multi-agent AI 
 
 ---
 
-### 🔬 Specialized Systems & Substrates
+### 🔬 Specialized Systems & Tooling
 
 - 🎭 **build-a-bot** `[Studio Tooling]` — **MetaHuman Character & Persona Designer:** Full-stack character design platform for Unreal Engine MetaHumans, modeling 100+ planetary sector roles, persona replication mechanics, and multi-model grounding.
 - ⚡ **supra-gptr** `[AI Infrastructure]` — **Enterprise Multi-Provider LLM Router:** Production Python/FastAPI middleware with intelligent cross-provider routing (OpenAI, Anthropic, Google, AWS), semantic caching, and a 10-tier inference depth system (Reflex $\to$ Gateway $\to$ Fast $\to$ Deep).
