@@ -67,11 +67,21 @@ I build at the convergence of **large-scale physical simulation, multi-agent AI 
 
 ---
 
+### 🔬 Specialized Systems & Substrates
+
+- 🎭 [**build-a-bot**](https://github.com/Humank1nd/build-a-bot) — **MetaHuman Character & Persona Designer:** Full-stack character design platform for Unreal Engine MetaHumans, modeling 100+ planetary sector roles, persona replication mechanics, and multi-model grounding.
+- ⚡ [**supra-gptr**](https://github.com/Humank1nd/supra-gptr) — **Enterprise Multi-Provider LLM Router:** Production Python/FastAPI middleware with intelligent cross-provider routing (OpenAI, Anthropic, Google, AWS), semantic caching, and a 10-tier inference depth system (Reflex $\to$ Gateway $\to$ Fast $\to$ Deep).
+- 🖥️ [**cloud-os**](https://github.com/Humank1nd/cloud-os) — **Web-Based Desktop Virtualization:** Interactive browser-based operating system runtime hosting Windows 11 and macOS desktop shells with live terminal emulation, file systems, and display routing.
+- 📳 [**Code-Vibrator**](https://github.com/Humank1nd/Code-Vibrator) — **Generative Code Mutation Toolkit:** Interactive developer environment for prompt vibration, real-time code mutation, and AST exploration.
+
+---
+
 ### 🎵 Featured Technical Showcases
 
 - 🎧 [**metasounds-procedural-audio**](https://github.com/Humank1nd/metasounds-procedural-audio) — Real-time procedural engine audio synthesis, 3D radial Doppler shift, and raycast acoustic canyon reverb for Unreal Engine 5 MetaSounds.
 - 🏛️ [**cosmic-council**](https://github.com/Humank1nd/cosmic-council) — Multi-agent cognitive routing runtime with 6-seat ROYGBV cycles and deterministic verification gates.
 - 🏙️ [**orlando-cares-data**](https://github.com/Humank1nd/orlando-cares-data) — Automated municipal civic volunteer data harvesting pipeline.
+
 
 ---
 
