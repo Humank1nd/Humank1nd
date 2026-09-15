@@ -36,9 +36,11 @@ Infrastructure:        Docker • Linux • GitHub Actions CI/CD • High-Throug
 | :--- | :--- | :--- |
 | [**twin-earth-nyc**](https://github.com/Humank1nd/twin-earth-nyc) | **Streaming Digital Twin (UE5)** | 1:1 photorealistic Manhattan simulation in Unreal Engine 5. Sub-meter WGS84 geodetic anchoring, streaming 3D tiles, and automated invariant validation. |
 | [**cosmic-council**](https://github.com/Humank1nd/cosmic-council) | **Multi-Agent Cognitive Engine** | Modular multi-agent coordination runtime with deterministic verification gates, agent registries, and state machine routing. |
+| [**metasounds-procedural-audio**](https://github.com/Humank1nd/metasounds-procedural-audio) | **Procedural Audio & Acoustics (UE5)** | Real-time procedural engine audio synthesis, multi-order harmonics, 3D radial Doppler vector shift, and raycast acoustic canyon reverberation. |
 | [**deeplove**](https://github.com/Humank1nd/deeplove) | **Relational AI & Experience Platform** | Full-stack interactive AI platform featuring structured prompt libraries, multi-agent personas, and real-time interaction loops. |
 | [**orlando-cares-data**](https://github.com/Humank1nd/orlando-cares-data) | **Civic Automation Pipeline** | Automated production pipeline harvesting and structuring municipal volunteer data with zero-human-intervention CI/CD. |
 | [**humank1nd-foundation-site**](https://github.com/Humank1nd/humank1nd-foundation-site) | **Civic Technology & Foundation** | Official platform for the Humank1nd Foundation (501(c)(3) DUNA) advancing public-benefit computing. |
+
 
 ---
 
