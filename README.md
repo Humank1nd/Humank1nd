@@ -1,61 +1,95 @@
 # Andrew Carling
 
-**Creative Technologist • AI & Simulation Technical Director**  
-*Unreal Engine 5 • Multi-Agent Cognitive Architectures • Virtual Production & Procedural Audio*  
+**Creative Technologist • AI & Simulation Technical Director • Systems Architect**  
+*Unreal Engine 5 • Multi-Agent Cognitive Architectures • Physical Simulation & Procedural Media*  
 📍 *Orlando, Florida*
 
 ---
 
-### 🎬 About
+### 🌐 Executive Overview
 
-I build at the intersection of **real-time 3D simulation, autonomous AI systems, and generative media**. My work bridges game engine architecture (Unreal Engine 5), multi-agent cognitive pipelines, and interactive procedural sound to eliminate production bottlenecks for game and film studios.
+I build at the convergence of **large-scale physical simulation, multi-agent AI architectures, and interactive procedural media**. My life's work bridges real-time game engines (Unreal Engine 5), deterministic cognitive runtimes, and relational/sensory systems engineered to align computing with human flourishing.
 
-- 🌍 **Streaming Planetary Digital Twins:** Authoring sub-meter georeferenced real-time worlds in Unreal Engine 5 using Cesium 3D Tiles, Nanite, Lumen, and WGS84 datums—reducing multi-year 3D modeling cycles down to instant streaming base meshes.
-- 🤖 **Multi-Agent AI & NPC Cognitive Architectures:** Designing deterministic state machines, multi-agent baton chains, and verification loops for autonomous NPC behaviors and story generation.
-- 🎵 **Interactive Audio & AI Music:** Designing procedural soundscapes via Unreal Engine MetaSounds, generative music pipelines, and real-time interactive audio graphs.
-- ⚡ **Production Systems & Tooling:** High-performance systems engineering across C++, Python, Rust, and TypeScript with containerized CI/CD pipelines.
+```
+                                      THE COMPUTATIONAL ECOSYSTEM
+                                                   │
+         ┌────────────────────────┬────────────────┼────────────────┬────────────────────────┐
+         ▼                        ▼                ▼                ▼                        ▼
+ [PHYSICAL SIMULATION]     [COGNITIVE AI]    [CREATIVE & LORE]  [RELATIONAL / SENSORY]   [CIVIC & TRIAGE]
+    • Life Itself          • Dream Caesar       • Marvel          • Deep Love              • Bootstraps
+    • Twin Earth NYC       • Cosmic Council       Multiverse      • STIMM
+                           • Think Tank         • Know Joke
+```
 
 ---
 
-### 🛠️ Technical Competencies
+## 🏛️ The 8 Master Engines
+
+### 1. 🌍 [Life Itself](https://github.com/Humank1nd/twin-earth-nyc) — Planetary Simulation Core
+* **Domain:** AAA Real-Time Physical Simulation & Digital Twins
+* **Stack:** Unreal Engine 5 • Cesium 3D Tiles • WGS84 Georeferencing • Nanite • Lumen • Chaos Physics
+* **Architecture:** Solves the multi-year AAA environment bottleneck by streaming 1:1 photorealistic planetary meshes directly into UE5. Anchored to sub-meter geodetic survey coordinates with automated spatial invariant test suites.
+
+### 2. 🌌 [Marvel Multiverse](https://github.com/Humank1nd/marvel-omniverse) — Sacred Timeline DAG Engine
+* **Domain:** Dynamic Narrative, Comic Canon Invariance & Multiverse Simulation
+* **Stack:** TypeScript • Directed Acyclic Graphs (DAG) • Event Sourcing • Invariant Verification
+* **Architecture:** 100% authentic Marvel Comics canon modeled as an immutable, non-cyclical Sacred Timeline DAG. Governed by the Living Tribunal invariant engine and Uatu Nexus observation surfaces to eliminate narrative paradox loops.
+
+### 3. 👑 [Dream Caesar](https://github.com/Humank1nd/dream-caesar) — Master Life OS & PCOS v1.0
+* **Domain:** Cognitive Operating System & Autonomous Execution
+* **Stack:** Python • TypeScript • FastApi • Distributed Task Queues • Vector Stores
+* **Architecture:** The master executive intelligence engine. Implements the unbroken 6-Seat Council orchestration cycle and the canonical 108 recursive question baton-chain sequence across 10 fractal intelligence tiers (Quecto to Macro).
+
+### 4. 🥾 [Bootstraps](https://github.com/Humank1nd/orlando-cares-data) — Civic Dispatch & Veteran Triage
+* **Domain:** Civic Technology, Mission Reboot & Emergency Dispatch
+* **Stack:** Python • GitHub Actions • Real-Time Geo-Routing • Municipal Open Data Schemas
+* **Architecture:** Open public-benefit infrastructure providing emergency veteran triage, municipal volunteer synchronization, and real-time civic resource dispatch with zero-human-intervention automation.
+
+### 5. 🏛️ [Think Tank](https://github.com/Humank1nd/think-tank) — Strategy Simulation & Guardrail Gateway
+* **Domain:** Enterprise Strategy, Policy Gateways & Cognitive Synthesis
+* **Stack:** Python • FastAPI • Guardrail Gateways • Refinement Engines • Docker
+* **Architecture:** Production-grade strategy simulation and think-tank runtime. Features strict input/output guardrail enforcement, dynamic prompt evaluation, and recursive multi-model refinement engines.
+
+### 6. 🧠 [STIMM](https://github.com/Humank1nd/stimm-mvp) — Autonomic Sensory Regulation
+* **Domain:** Neurodivergent Assistive Tech, Sensory Computation & Bio-Regulation
+* **Stack:** TypeScript • React • Web Audio API • Biometric Signal Processing • State Machines
+* **Architecture:** Autonomic nervous system regulation platform powered by the NeuroWheel interface. Provides real-time sensory overload circuit-breakers, audio-visual grounding fields, and non-pathologizing regulation loops.
+
+### 7. 🎭 [Know Joke](https://github.com/Humank1nd/know-joke-web) — Standup Comedy AI OS
+* **Domain:** Humor Intelligence, Dynamic Performance & Creative Economy
+* **Stack:** TypeScript • Next.js • Procedural Timing Runtimes • WebSockets • Token Economics
+* **Architecture:** Computational comedy operating system. Implements a 3-beat rhythm engine, standup stage simulator, real-time comedic tension curves, and the Jokoin revenue network.
+
+### 8. 💖 [Deep Love](https://github.com/Humank1nd/deeplove) — Relational Intelligence Platform
+* **Domain:** Relational AI, Pairwise Alignment & Emotional Regulation
+* **Stack:** TypeScript • Next.js • Tailwind CSS • Bun • Docker • Multi-Agent Personas
+* **Architecture:** Relational intelligence platform built on Nonviolent Communication (NVC) and the 6-Heart relational flow. Bridges interpersonal alignment, emotional co-regulation, and pairwise communication safety.
+
+---
+
+### 🎵 Featured Technical Showcases
+
+- 🎧 [**metasounds-procedural-audio**](https://github.com/Humank1nd/metasounds-procedural-audio) — Real-time procedural engine audio synthesis, 3D radial Doppler shift, and raycast acoustic canyon reverb for Unreal Engine 5 MetaSounds.
+- 🏛️ [**cosmic-council**](https://github.com/Humank1nd/cosmic-council) — Multi-agent cognitive routing runtime with 6-seat ROYGBV cycles and deterministic verification gates.
+- 🏙️ [**orlando-cares-data**](https://github.com/Humank1nd/orlando-cares-data) — Automated municipal civic volunteer data harvesting pipeline.
+
+---
+
+### 🛠️ Master Engineering Competencies
 
 ```
 Engines & Real-Time:   Unreal Engine 5 (Nanite, Lumen, MassEntity, Chaos Physics, World Partition)
-Virtual Production:    Cesium for Unreal • OGC 3D Tiles • WGS84 Georeferencing • USD Pipelines
-AI & Agent Systems:    Multi-Agent Orchestration • State Machines • LLM Tool Runtimes • PyTorch • llama.cpp
-Audio & Music:         MetaSounds Graphs • Procedural Audio • Generative Music Synthesis • DSP
-Languages:             C++ • Python • TypeScript • Rust • SQL
-Infrastructure:        Docker • Linux • GitHub Actions CI/CD • High-Throughput Data Pipelines
+Simulation & 3D:       Cesium for Unreal • OGC 3D Tiles • WGS84 Georeferencing • Spatial Math
+AI & Agent Systems:    Multi-Agent Orchestration • State Machines • DAG Engines • LLM Runtimes
+Audio & Media:         MetaSounds Graphs • Procedural Audio Synthesis • Generative AI Music
+Languages:             TypeScript • Python • C++ • Rust • SQL
+Ops & Infrastructure:  Docker • Linux • GitHub Actions CI/CD • High-Throughput Data Pipelines
 ```
 
 ---
 
-### 🚀 Flagship Portfolios & Architecture Showcases
-
-| Project | Domain | Architecture & Technologies |
-| :--- | :--- | :--- |
-| [**twin-earth-nyc**](https://github.com/Humank1nd/twin-earth-nyc) | **Streaming Digital Twin (UE5)** | 1:1 photorealistic Manhattan simulation in Unreal Engine 5. Sub-meter WGS84 geodetic anchoring, streaming 3D tiles, and automated invariant validation. |
-| [**cosmic-council**](https://github.com/Humank1nd/cosmic-council) | **Multi-Agent Cognitive Engine** | Modular multi-agent coordination runtime with deterministic verification gates, agent registries, and state machine routing. |
-| [**metasounds-procedural-audio**](https://github.com/Humank1nd/metasounds-procedural-audio) | **Procedural Audio & Acoustics (UE5)** | Real-time procedural engine audio synthesis, multi-order harmonics, 3D radial Doppler vector shift, and raycast acoustic canyon reverberation. |
-| [**deeplove**](https://github.com/Humank1nd/deeplove) | **Relational AI & Experience Platform** | Full-stack interactive AI platform featuring structured prompt libraries, multi-agent personas, and real-time interaction loops. |
-| [**orlando-cares-data**](https://github.com/Humank1nd/orlando-cares-data) | **Civic Automation Pipeline** | Automated production pipeline harvesting and structuring municipal volunteer data with zero-human-intervention CI/CD. |
-| [**humank1nd-foundation-site**](https://github.com/Humank1nd/humank1nd-foundation-site) | **Civic Technology & Foundation** | Official platform for the Humank1nd Foundation (501(c)(3) DUNA) advancing public-benefit computing. |
-
-
----
-
-### 📊 GitHub Activity Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Humank1nd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Andrew Carling's GitHub Stats" />
-</p>
-
----
-
-### 📬 Connect & Studio Inquiries
+### 📬 Connect & Inquiries
 
 - **GitHub:** [@Humank1nd](https://github.com/Humank1nd)
-- **Role Targets:** Creative Technologist • Technical Director (Simulation / AI) • Gameplay & Systems Architect • Virtual Production TD
+- **Target Roles:** Creative Technologist • Simulation / AI Technical Director • Gameplay & Systems Architect • Solutions Strategist
 - **Location:** Orlando, FL
-
-
