@@ -25,42 +25,42 @@ I build at the convergence of **large-scale physical simulation, multi-agent AI 
 
 ## 🏛️ The 8 Master Engines
 
-### 1. 🌍 [Life Itself](https://github.com/Humank1nd/life-itself) — Planetary Simulation Core
+### 1. 🌍 [Life Itself](https://github.com/Humank1nd/twin-earth-nyc) — Planetary Simulation Core `[Public Showcase]`
 * **Domain:** AAA Real-Time Physical Simulation & Digital Twins
 * **Stack:** Unreal Engine 5 • Cesium 3D Tiles • WGS84 Georeferencing • Nanite • Lumen • Chaos Physics
 * **Architecture:** Solves the multi-year AAA environment bottleneck by streaming 1:1 photorealistic planetary meshes directly into UE5. Anchored to sub-meter geodetic survey coordinates with automated spatial invariant test suites ([Twin Earth NYC](https://github.com/Humank1nd/twin-earth-nyc)).
 
-### 2. 🌌 [Marvel Multiverse](https://github.com/Humank1nd/marvel-multiverse) — Sacred Timeline DAG Engine
+### 2. 🌌 Marvel Multiverse — Sacred Timeline DAG Engine `[Proprietary Core]`
 * **Domain:** Dynamic Narrative, Comic Canon Invariance & Multiverse Simulation
 * **Stack:** TypeScript • Directed Acyclic Graphs (DAG) • Event Sourcing • Invariant Verification
 * **Architecture:** 100% authentic Marvel Comics canon modeled as an immutable, non-cyclical Sacred Timeline DAG. Governed by the Living Tribunal invariant engine and Uatu Nexus observation surfaces to eliminate narrative paradox loops.
 
-### 3. 👑 [Dream Caesar](https://github.com/Humank1nd/dream-caesar) — Master Life OS & PCOS v1.0
+### 3. 👑 Dream Caesar — Master Life OS & PCOS v1.0 `[Proprietary Core]`
 * **Domain:** Cognitive Operating System & Autonomous Execution
-* **Stack:** Python • TypeScript • FastApi • Distributed Task Queues • Vector Stores
+* **Stack:** Python • TypeScript • FastAPI • Distributed Task Queues • Vector Stores
 * **Architecture:** The master executive intelligence engine. Implements the unbroken 6-Seat Council orchestration cycle and the canonical 108 recursive question baton-chain sequence across 10 fractal intelligence tiers (Quecto to Macro).
 
-### 4. 🥾 [Bootstraps](https://github.com/Humank1nd/bootstraps) — Civic Dispatch & Veteran Triage
+### 4. 🥾 [Bootstraps](https://github.com/Humank1nd/bootstraps) — Civic Dispatch & Veteran Triage `[Public Showcase]`
 * **Domain:** Civic Technology, Mission Reboot & Emergency Dispatch
 * **Stack:** Python • Vite / React • Real-Time Geo-Routing • Municipal Open Data Schemas
 * **Architecture:** Open public-benefit infrastructure providing emergency veteran triage, municipal volunteer synchronization ([Orlando Cares](https://github.com/Humank1nd/orlando-cares-data)), and real-time civic resource dispatch with zero-human-intervention automation.
 
-### 5. 🏛️ [Think Tank](https://github.com/Humank1nd/think-tank) — Strategy Simulation & Guardrail Gateway
+### 5. 🏛️ Think Tank — Strategy Simulation & Guardrail Gateway `[Proprietary Core]`
 * **Domain:** Enterprise Strategy, Policy Gateways & Cognitive Synthesis
 * **Stack:** Python • FastAPI • Guardrail Gateways • Refinement Engines • Docker
 * **Architecture:** Production-grade strategy simulation and think-tank runtime. Features strict input/output guardrail enforcement, dynamic prompt evaluation, and recursive multi-model refinement engines.
 
-### 6. 🧠 [STIMM](https://github.com/Humank1nd/stimm) — Autonomic Sensory Regulation
+### 6. 🧠 STIMM — Autonomic Sensory Regulation `[Proprietary Core]`
 * **Domain:** Neurodivergent Assistive Tech, Sensory Computation & Bio-Regulation
 * **Stack:** TypeScript • React • Web Audio API • Biometric Signal Processing • State Machines
 * **Architecture:** Autonomic nervous system regulation platform powered by the NeuroWheel interface. Provides real-time sensory overload circuit-breakers, audio-visual grounding fields, and non-pathologizing regulation loops.
 
-### 7. 🎭 [Know Joke](https://github.com/Humank1nd/know-joke) — Standup Comedy AI OS
+### 7. 🎭 Know Joke — Standup Comedy AI OS `[Proprietary Core]`
 * **Domain:** Humor Intelligence, Dynamic Performance & Creative Economy
 * **Stack:** TypeScript • Next.js • Procedural Timing Runtimes • WebSockets • Token Economics
 * **Architecture:** Computational comedy operating system. Implements a 3-beat rhythm engine, standup stage simulator, real-time comedic tension curves, and the Jokoin revenue network.
 
-### 8. 💖 [Deep Love](https://github.com/Humank1nd/deep-love) — Relational Intelligence Platform
+### 8. 💖 Deep Love — Relational Intelligence Platform `[Proprietary Core]`
 * **Domain:** Relational AI, Pairwise Alignment & Emotional Regulation
 * **Stack:** TypeScript • Next.js • Tailwind CSS • Bun • Docker • Multi-Agent Personas
 * **Architecture:** Relational intelligence platform built on Nonviolent Communication (NVC) and the 6-Heart relational flow. Bridges interpersonal alignment, emotional co-regulation, and pairwise communication safety.
@@ -69,10 +69,10 @@ I build at the convergence of **large-scale physical simulation, multi-agent AI 
 
 ### 🔬 Specialized Systems & Substrates
 
-- 🎭 [**build-a-bot**](https://github.com/Humank1nd/build-a-bot) — **MetaHuman Character & Persona Designer:** Full-stack character design platform for Unreal Engine MetaHumans, modeling 100+ planetary sector roles, persona replication mechanics, and multi-model grounding.
-- ⚡ [**supra-gptr**](https://github.com/Humank1nd/supra-gptr) — **Enterprise Multi-Provider LLM Router:** Production Python/FastAPI middleware with intelligent cross-provider routing (OpenAI, Anthropic, Google, AWS), semantic caching, and a 10-tier inference depth system (Reflex $\to$ Gateway $\to$ Fast $\to$ Deep).
-- 🖥️ [**cloud-os**](https://github.com/Humank1nd/cloud-os) — **Web-Based Desktop Virtualization:** Interactive browser-based operating system runtime hosting Windows 11 and macOS desktop shells with live terminal emulation, file systems, and display routing.
-- 📳 [**Code-Vibrator**](https://github.com/Humank1nd/Code-Vibrator) — **Generative Code Mutation Toolkit:** Interactive developer environment for prompt vibration, real-time code mutation, and AST exploration.
+- 🎭 **build-a-bot** `[Studio Tooling]` — **MetaHuman Character & Persona Designer:** Full-stack character design platform for Unreal Engine MetaHumans, modeling 100+ planetary sector roles, persona replication mechanics, and multi-model grounding.
+- ⚡ **supra-gptr** `[AI Infrastructure]` — **Enterprise Multi-Provider LLM Router:** Production Python/FastAPI middleware with intelligent cross-provider routing (OpenAI, Anthropic, Google, AWS), semantic caching, and a 10-tier inference depth system (Reflex $\to$ Gateway $\to$ Fast $\to$ Deep).
+- 🖥️ **cloud-os** `[Virtualization]` — **Web-Based Desktop Virtualization:** Interactive browser-based operating system runtime hosting Windows 11 and macOS desktop shells with live terminal emulation, file systems, and display routing.
+- 📳 **Code-Vibrator** `[DevEx Tooling]` — **Generative Code Mutation Toolkit:** Interactive developer environment for prompt vibration, real-time code mutation, and AST exploration.
 
 ---
 
